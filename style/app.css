@@ -1,0 +1,12 @@
+body{
+    font-family: IRANYekanX;
+    font-size: 28px;
+}
+
+body > div{
+    background-image: url(../Image/London1.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 800px;
+    height: 800px;
+}
